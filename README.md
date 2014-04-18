@@ -1,0 +1,3 @@
+应用层使用binder service的demo
+binder service作为远程service，
+使用aidl编写接口
